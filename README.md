@@ -4,6 +4,7 @@
 **SarahRowan711/SarahRowan711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on a Professional Certificate in Coding: Full Stack Development with MERN through MIT xPRO
 - 🌱 I’m currently learning JavaScript and Python.
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <.< >.>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have 3 cats and 1 dachshund who might as well be a cat.
--->
